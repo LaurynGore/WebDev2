@@ -1,0 +1,40 @@
+#main-header h1 a {
+  color: #fff;
+  font-size: 200%;
+}
+
+#header-image {
+  width: 100%;
+}
+
+#main-header > h1 {
+  background: url("../images/header2.png");
+  padding: 1em;
+}
+
+#pictureTitle {
+  color: aqua;
+}
+
+.needed {
+  background-color: yellow;
+}
+
+body {
+  font-size: 16px;
+}
+#instructions1 {
+  display:none;
+}
+#instructions2 {
+  display:none;
+}
+
+figure figcaption{
+  text-align: right;
+  padding-right: 60px;
+}
+
+#authorline {
+  text-align: center;
+}
